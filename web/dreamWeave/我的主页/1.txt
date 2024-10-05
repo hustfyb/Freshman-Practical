@@ -1,0 +1,12 @@
+个人概况:
+姓名：		 性别：	男
+政治面貌：	团员	出生年月：	1983年4月	专业：	计算机科学
+最高学历：	本科	
+联系方式:
+联系电话：	13xxxxxxxxxxx	电子邮箱：	
+邮政编码：		个人主页：	http://
+联系地址：	
+个人能力:
+★掌握C/C++、PHP、SQL、Matlab、VC.net、Html、Javascript；了解Visual Foxpro、Java、Asp、Lindo、Lingo；★掌握Windows 2000 (Advanced) Server的管理和日常维护,了解Linux的管理和日常维护；
+教育背景
+2001.9-2005.7	★就读于计算机专业
