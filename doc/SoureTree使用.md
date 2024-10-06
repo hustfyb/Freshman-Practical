@@ -16,7 +16,7 @@
 点击推送，勾选将本地master分支推送到远程master分支，点击推送。
 在首次推送时会提示要求输入仓库的用户名和密码，输入在网站上注册的用户和密码即可。
 ![push](https://images.gitee.com/uploads/images/2019/0928/125957_ea35aa23_5267594.png "push.png")
-推送完成后，可以看到最新的版本里显示了master 和 origin/master，这表明本地master分支和远程master分支是同步的，登录Gitee可以看到仓库里已有提交记录了。如下图。这样本地修改的代码或文件就被同步到了远程仓库，可以被别人拉下来使用。
-![pushLog](https://images.gitee.com/uploads/images/2019/0928/130250_fc53c83a_5267594.png "pushLog.png")
+推送完成后，可以看到最新的版本里显示了main 和 origin/main，这表明本地master分支和远程master分支是同步的，登录github可以看到仓库里已有提交记录了。如下图。这样本地修改的代码或文件就被同步到了远程仓库，可以被别人拉下来使用。
+![pushLog](https://raw.githubusercontent.com/hustfyb/Freshman-Practical/refs/heads/main/doc/image/pushLog.png "pushLog.png")
 ## 下一步
  拉取代码，分支，合并，冲突解决，回滚代码等功能的使用就留给同学们自行探索，可以通过在网上查阅相关资料完成。
