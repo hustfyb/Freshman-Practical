@@ -1,7 +1,7 @@
 ## 1. SourceTree安装
 在使用SourceTree之前必须要先安装Git和sourceTree，注意新版的SourceTree安装的时候需要有bitbucket的账号，可以自行注册。    
 ## 2. 获取远程仓库地址
-![获取远程仓库地址](https://images.gitee.com/uploads/images/2019/0925/194102_698a3d5c_5267594.png "address.PNG")
+![获取远程仓库地址](https://raw.githubusercontent.com/hustfyb/Freshman-Practical/refs/heads/main/doc/image/address.png "address.PNG")
 ## 3. Clone远程仓库
 打开sourcetree，点击tab页上的“+”号，准备创建新仓库，点击clone,填入远程仓库地址，目标路径（本地存放路径），点击克隆。如下图
 ![Clone](https://images.gitee.com/uploads/images/2019/0928/101450_8af88c08_5267594.png "clone.png")
